@@ -1,0 +1,37 @@
+body {
+  font-family: "PT Sans", sans-serif;
+}
+.presentation {
+  background: black;
+}
+.name {
+  color: aliceblue;
+  text-align: center;
+}
+.line-divider {
+  border-top: 3px solid #6a6d6e;
+  opacity: 0.4;
+}
+.title {
+  color: rgb(13, 81, 226);
+  text-align: center;
+}
+.img {
+  display: block;
+  margin: 20px auto;
+  border-radius: 4px;
+}
+p {
+  color: white;
+}
+.identification {
+  text-align: right;
+  margin: 40px 0px 0px 0px;
+  font-size: 14px;
+}
+.github-repo {
+  color: #127fce;
+}
+.author {
+  color: rgb(114, 111, 111);
+}

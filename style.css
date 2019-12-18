@@ -3,26 +3,42 @@ body {
 }
 .presentation {
   background: black;
+  margin: 20px auto;
+  width: 700px auto;
+  padding: 50px;
 }
 .name {
-  color: aliceblue;
+  color: #fff;
   text-align: center;
 }
 .line-divider {
-  border-top: 3px solid #6a6d6e;
+  border-top: 2px solid #6a6d6e;
   opacity: 0.4;
 }
 .title {
   color: rgb(13, 81, 226);
   text-align: center;
 }
-.img {
+img {
   display: block;
-  margin: 20px auto;
+  margin: 25px auto;
+  border-radius: 4px;
+  border: 1px solid #fff;
+  width: 400px;
+}
+.description {
+  border: 1px solid #fff;
+  padding: 15px;
   border-radius: 4px;
 }
 p {
-  color: white;
+  color: #fff;
+  line-height: 1.5;
+  text-align: justify;
+}
+.highlight {
+  color: rgb(13, 81, 226);
+  font-weight: 600;
 }
 .identification {
   text-align: right;

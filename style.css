@@ -8,7 +8,7 @@ body {
   padding: 50px;
 }
 .name {
-  color: #fff;
+  color: #e5e0ee;
   text-align: center;
 }
 .line-divider {
@@ -23,16 +23,16 @@ img {
   display: block;
   margin: 25px auto;
   border-radius: 4px;
-  border: 1px solid #fff;
+  border: 1px solid #e5e0ee;
   width: 400px;
 }
 .description {
-  border: 1px solid #fff;
+  border: 1px solid #e5e0ee;
   padding: 15px;
   border-radius: 4px;
 }
 p {
-  color: #fff;
+  color: #e5e0ee;
   line-height: 1.5;
   text-align: justify;
 }
@@ -40,14 +40,18 @@ p {
   color: rgb(13, 81, 226);
   font-weight: 600;
 }
+a {
+  color: rgb(13, 81, 226);
+}
 .identification {
   text-align: right;
-  margin: 40px 0px 0px 0px;
+  margin: 15px 0px 0px 0px;
   font-size: 14px;
+  color: #e5e0ee;
 }
 .github-repo {
-  color: #127fce;
+  color: rgb(13, 81, 226);
 }
 .author {
-  color: rgb(114, 111, 111);
+  color: #e5e0ee;
 }
